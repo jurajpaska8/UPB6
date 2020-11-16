@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Lenovo/CLionProjects/vulnerabilitiesUPB/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sqlite/sqlite3.h
+/cygdrive/c/Users/Lenovo/CLionProjects/vulnerabilitiesUPB/sqlite/sqlite3.h
+
+/cygdrive/c/Users/Lenovo/CLionProjects/vulnerabilitiesUPB/sqlite/sqlite3.h
+stdarg.h
+-
+

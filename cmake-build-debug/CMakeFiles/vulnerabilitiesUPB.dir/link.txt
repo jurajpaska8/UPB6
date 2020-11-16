@@ -1,0 +1,1 @@
+/usr/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/vulnerabilitiesUPB.dir/main.c.o CMakeFiles/vulnerabilitiesUPB.dir/sqlite/sqlite3.c.o  -o vulnerabilitiesUPB.exe -Wl,--out-implib,libvulnerabilitiesUPB.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
